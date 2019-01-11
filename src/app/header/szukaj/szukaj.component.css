@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    }
+.left {
+}
+.right {
+}
+button {
+    border:1px solid black;
+    margin: 0px 50px;
+}
+button:hover {
+    background: black;
+    color:wheat
+}
+input {
+    border:1px solid black
+
+}

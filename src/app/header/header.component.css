@@ -1,0 +1,16 @@
+.main {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+button {
+    margin: 0px 60px ;
+    width:250px;
+    background-color: black;
+    
+}
+button:hover {
+    background: grey;
+    border: 1px solid black;
+    color:black
+}
